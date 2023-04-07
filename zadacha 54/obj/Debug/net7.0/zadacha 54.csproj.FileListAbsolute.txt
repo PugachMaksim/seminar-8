@@ -1,0 +1,15 @@
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.csproj.AssemblyReference.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.AssemblyInfoInputs.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.AssemblyInfo.cs
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.csproj.CoreCompileInputs.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\bin\Debug\net7.0\zadacha 54.exe
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\bin\Debug\net7.0\zadacha 54.deps.json
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\bin\Debug\net7.0\zadacha 54.runtimeconfig.json
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\bin\Debug\net7.0\zadacha 54.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\bin\Debug\net7.0\zadacha 54.pdb
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\refint\zadacha 54.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.pdb
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\zadacha 54.genruntimeconfig.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 54\obj\Debug\net7.0\ref\zadacha 54.dll

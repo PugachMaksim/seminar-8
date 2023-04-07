@@ -1,0 +1,30 @@
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.csproj.AssemblyReference.cache
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.AssemblyInfoInputs.cache
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.AssemblyInfo.cs
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.csproj.CoreCompileInputs.cache
+D:\users\pmv\Documents\Новая папка\zadacha 62\bin\Debug\net7.0\zadacha 62.exe
+D:\users\pmv\Documents\Новая папка\zadacha 62\bin\Debug\net7.0\zadacha 62.deps.json
+D:\users\pmv\Documents\Новая папка\zadacha 62\bin\Debug\net7.0\zadacha 62.runtimeconfig.json
+D:\users\pmv\Documents\Новая папка\zadacha 62\bin\Debug\net7.0\zadacha 62.dll
+D:\users\pmv\Documents\Новая папка\zadacha 62\bin\Debug\net7.0\zadacha 62.pdb
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.dll
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\refint\zadacha 62.dll
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.pdb
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\zadacha 62.genruntimeconfig.cache
+D:\users\pmv\Documents\Новая папка\zadacha 62\obj\Debug\net7.0\ref\zadacha 62.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\bin\Debug\net7.0\zadacha 62.exe
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\bin\Debug\net7.0\zadacha 62.deps.json
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\bin\Debug\net7.0\zadacha 62.runtimeconfig.json
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\bin\Debug\net7.0\zadacha 62.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\bin\Debug\net7.0\zadacha 62.pdb
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.csproj.AssemblyReference.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.AssemblyInfoInputs.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.AssemblyInfo.cs
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.csproj.CoreCompileInputs.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\refint\zadacha 62.dll
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.pdb
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\zadacha 62.genruntimeconfig.cache
+C:\Users\pugac\OneDrive\Рабочий стол\IT\C#\seminar 8\zadacha 62\obj\Debug\net7.0\ref\zadacha 62.dll
